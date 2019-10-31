@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/genesis/Desktop/GraphDB/Classes/Graph.hpp
+Node.hpp
+/home/genesis/Desktop/GraphDB/Classes/Node.hpp
+Relation.hpp
+/home/genesis/Desktop/GraphDB/Classes/Relation.hpp
+list
+/home/genesis/Desktop/GraphDB/Classes/list
+
+/home/genesis/Desktop/GraphDB/Classes/Node.hpp
+string
+-
+list
+/home/genesis/Desktop/GraphDB/Classes/list
+
+/home/genesis/Desktop/GraphDB/Classes/Relation.hpp
+string
+-
+
+/home/genesis/Desktop/GraphDB/main.cpp
+iostream
+-
+Classes/Graph.hpp
+/home/genesis/Desktop/GraphDB/Classes/Graph.hpp
+

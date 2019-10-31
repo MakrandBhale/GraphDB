@@ -1,0 +1,3 @@
+/home/genesis/Desktop/GraphDB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/genesis/Desktop/GraphDB/cmake-build-debug/CMakeFiles/GraphDB.dir
+/home/genesis/Desktop/GraphDB/cmake-build-debug/CMakeFiles/edit_cache.dir
